@@ -30,8 +30,7 @@
                 "url": "/signup",
                 "style": "primary"
             }
-        ],
-        "logo_img": "images/logo.svg"
+        ]
     },
     "footer": {
         "sections": [
