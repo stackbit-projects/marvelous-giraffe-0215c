@@ -7,7 +7,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: page
-image: images/contact-number-png-7.png
+image: images/12_thumb.jpg
 ---
 ### Talk to our expert counsellors in our office right away!
 
