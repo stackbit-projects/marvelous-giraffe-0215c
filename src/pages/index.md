@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: Education consulting and student services
+    title: Study abroad
     content: >-
       Our team of highly dedicated and talented officers will help you with all
       your needs for studying in abroad. Please contact us for any queries.
