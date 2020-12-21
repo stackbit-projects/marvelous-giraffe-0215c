@@ -8,9 +8,9 @@ canonical_url: lorem-ipsum
 no_index: false
 template: page
 ---
-## Lorem ipsum
+### Talk to our expert counsellors in our office right away!
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Monday – Friday
+9:30 AM – 4:30 PM IST
 
-- Lorem ipsum
-- dolor sit amet
+
