@@ -6,8 +6,8 @@ sections:
     image_alt: App preview
     title: Education consulting and student visa services
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Our team of highly dedicated and talented officers will help you with all
+      your needs for studying in abroad. Please contact us for any queries.
     actions:
       - label: Learn More
         url: /features
