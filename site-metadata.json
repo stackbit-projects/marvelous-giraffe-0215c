@@ -14,7 +14,7 @@
                 "label": "Student Services",
                 "url": "/visa-and-migration-counselling",
                 "style": "link",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Blog",
