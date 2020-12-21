@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    image: images/599-5995732_design-thinking-flat-design-hd-png-download.png
   - section_id: features
     type: section_features
     background: gray
