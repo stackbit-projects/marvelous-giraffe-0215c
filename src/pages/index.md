@@ -70,9 +70,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: 'Look at what our '
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
