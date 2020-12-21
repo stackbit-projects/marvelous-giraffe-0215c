@@ -10,7 +10,9 @@ template: page
 ---
 ### Talk to our expert counsellors in our office right away!
 
-Monday – Friday
-9:30 AM – 4:30 PM IST
+**Sunday – Friday 
+**
 
+**9:30 AM – 4:30 PM IST
+**
 
