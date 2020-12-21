@@ -48,6 +48,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        image: >-
+          images/png-clipart-girl-holding-books-illustration-student-university-college-education-carrying-a-schoolbag-for-college-students-people-university.png
       - title: Cool Feature of Your Services
         image_alt: App user profile preview
         content: >-
