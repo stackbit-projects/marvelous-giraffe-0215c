@@ -70,7 +70,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: 'Look at what our '
+    subtitle: Look at what our client have to say about out service
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
