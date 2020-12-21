@@ -7,6 +7,7 @@ meta_description: lorem-ipsum
 canonical_url: lorem-ipsum
 no_index: false
 template: page
+image: images/141-1419589_apply-card-icon-college-student-icon-png.png
 ---
 ## Lorem ipsum
 
