@@ -59,6 +59,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        image: >-
+          images/aa16f42d31c6418567d400b96dc7b2ac-student-backpack-illustration-by-vexels.png
   - section_id: reviews
     type: section_reviews
     background: white
