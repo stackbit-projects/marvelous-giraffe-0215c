@@ -1,5 +1,5 @@
 ---
-title: Speak withh us
+title: Speak with us
 subtitle: ''
 image_alt: lorem-ipsum
 meta_title: lorem-ipsum
