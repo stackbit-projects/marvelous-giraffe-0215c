@@ -2,7 +2,6 @@
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/18558952_1462215087176623_2995781428920551296_o.jpg",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
