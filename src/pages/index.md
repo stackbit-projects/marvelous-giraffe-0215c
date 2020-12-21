@@ -33,6 +33,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        image: >-
+          images/086fd2aae9895879898312a0ad2ae97e-student-rising-hand-illustration-by-vexels.png
       - title: Awesome Feature of Your Services
         image_alt: App users welcoming a new member
         content: >-
